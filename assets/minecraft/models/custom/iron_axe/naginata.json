@@ -1,0 +1,31 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "custom/naginata"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 45 ],
+            "translation": [ 0, -0.25, 3.5 ],
+            "scale": [ 3.7, 3.7, 0.85 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, -90, -45 ],
+            "translation": [ 0, -0.25, 3.5 ],
+            "scale": [ 3.7, 3.7, 0.85 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 90, 65 ],
+            "translation": [ 1.13, 1.0, 1.13 ],
+            "scale": [ 2, 2, 0.65 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, -90, -65 ],
+            "translation": [ 1.13, 1.0, 1.13 ],
+            "scale": [ 2, 2, 0.65 ]
+        },
+        "gui": {
+			"scale": [1.25, 1.25, 1.25]
+		}
+    }
+}
