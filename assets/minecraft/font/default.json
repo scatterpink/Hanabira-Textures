@@ -1,0 +1,15 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hanabira_no_shadow.png",
+            "height": 64,
+            "ascent": 8,
+            "_comment": "邐",
+            "chars": [
+                "\u9090\u9091",
+                "\u9093\u9094"
+            ]
+        }
+    ]
+}
