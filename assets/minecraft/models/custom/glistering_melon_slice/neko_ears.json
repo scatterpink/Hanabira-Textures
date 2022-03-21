@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "custom/neko_ears_strap",
 		"1": "custom/neko_ears_atlas",
-		"particle": "custom/neko_ears_strap"
+		"particle": "custom//neko_ears_strap"
 	},
 	"elements": [
 		{
@@ -23,7 +23,7 @@
 		{
 			"from": [4.875, 6.50025, 8],
 			"to": [7.875, 11.75025, 8],
-			"rotation": {"angle": 0, "axis": "z", "origin": [8.625, 5.50025, 7]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.625, 5.50025, 7]},
 			"faces": {
 				"north": {"uv": [3, 0, 0, 5.5], "texture": "#1"},
 				"east": {"uv": [0, 0, 0, 5.5], "texture": "#1"},
@@ -62,7 +62,7 @@
 		{
 			"from": [4.625, 8.49925, 7.5],
 			"to": [11.375, 8.49925, 8.5],
-			"rotation": {"angle": 0, "axis": "z", "origin": [2.375, -2.50075, 7.5]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.375, -2.50075, 7.5]},
 			"faces": {
 				"north": {"uv": [12.25, 0.25, 12.75, 0.75], "texture": "#0"},
 				"east": {"uv": [13.25, 0.25, 13.75, 0.75], "texture": "#0"},
