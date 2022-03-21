@@ -4,6 +4,14 @@
   	"layer0": "minecraft:item/glistering_melon_slice"
   },
   "overrides": [
-	{"predicate": {"custom_model_data": 1}, "model": "custom/glistering_melon_slice/omamori"}
+	{"predicate": {"custom_model_data": 1}, "model": "custom/glistering_melon_slice/omamori"},
+	{"predicate": {"custom_model_data": 2}, "model": "custom/glistering_melon_slice/bamboo_muzzle"},
+	{"predicate": {"custom_model_data": 3}, "model": "custom/glistering_melon_slice/bowtie"},
+	{"predicate": {"custom_model_data": 4}, "model": "custom/glistering_melon_slice/farmer_hat"},
+	{"predicate": {"custom_model_data": 5}, "model": "custom/glistering_melon_slice/forehead_protector"},
+	{"predicate": {"custom_model_data": 6}, "model": "custom/glistering_melon_slice/glasses"},
+	{"predicate": {"custom_model_data": 7}, "model": "custom/glistering_melon_slice/neko_ears"},
+	{"predicate": {"custom_model_data": 8}, "model": "custom/glistering_melon_slice/sakura_umbrella"},
+	{"predicate": {"custom_model_data": 9}, "model": "custom/glistering_melon_slice/usagi_mask"}
   ]
 }
