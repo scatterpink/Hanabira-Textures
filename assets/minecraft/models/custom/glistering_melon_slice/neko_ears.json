@@ -3,14 +3,13 @@
 	"textures": {
 		"0": "custom/neko_ears_strap",
 		"1": "custom/neko_ears_atlas",
-		"particle": "custom//neko_ears_strap"
+		"particle": "custom/neko_ears_strap"
 	},
 	"elements": [
 		{
-			"from": [8.08271, 6.48311, 8.09973],
-			"to": [11.08271, 11.73311, 8.09973],
-			"rotation": {"angle": -1.17688, "axis": "x", "origin": [10.33271, 5.48311, 7.09973]},
-			"rotated": [-1.17688, 2.13462, -0.15265],
+			"from": [8.08271, 6.48311, 8],
+			"to": [11.08271, 11.73311, 8],
+			"rotation": {"angle": 0, "axis": "x", "origin": [10.33271, 5.48311, 7.09973]},
 			"faces": {
 				"north": {"uv": [0, 0, 3, 5.5], "texture": "#1"},
 				"east": {"uv": [0, 0, 0, 5.5], "texture": "#1"},
