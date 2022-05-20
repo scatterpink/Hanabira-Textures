@@ -1,10 +1,12 @@
 {
-  "music_disc.sakura": {
+  "records.sakura": {
     "sounds": [
       {
-        "name": "custom/music_disc/sakura"
+        "name": "custom/records/sakura",
+        "attenuation_distance": 16
       }
     ],
-    "subtitle": "Toshiko Yonekawa - Sakura Sakura 「さくら さくら」 "
+    "category": "music",
+    "subtitle": "Toshiko Yonekawa - Sakura Sakura 「さくら さくら」"
   }
 }
