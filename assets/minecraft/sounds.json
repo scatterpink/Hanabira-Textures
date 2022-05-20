@@ -3,10 +3,12 @@
     "sounds": [
       {
         "name": "custom/records/sakura",
-        "attenuation_distance": 16
+        "stream": true,
+        "attenuation_distance": 32,
+        "volume": 0.75
       }
     ],
-    "category": "music",
+    "category": "record",
     "subtitle": "Toshiko Yonekawa - Sakura Sakura 「さくら さくら」"
   }
 }
