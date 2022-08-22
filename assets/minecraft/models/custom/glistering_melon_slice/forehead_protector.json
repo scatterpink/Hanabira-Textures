@@ -102,6 +102,10 @@
 		},
 		"fixed": {
 			"translation": [0, -0.5, 7.75]
+		},
+		"ground": {
+			"translation": [0, -0.55, 0],
+			"scale": [0.25, 0.25, 0.25]
 		}
 	}
 }
