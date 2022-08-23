@@ -17,6 +17,7 @@
 	{"predicate": {"custom_model_data": 11}, "model": "custom/glistering_melon_slice/red_bell_bracelet"},
 	{"predicate": {"custom_model_data": 12}, "model": "custom/glistering_melon_slice/koishi_hat"},
 	{"predicate": {"custom_model_data": 13}, "model": "custom/glistering_melon_slice/hanten_horns"},
-	{"predicate": {"custom_model_data": 14}, "model": "custom/glistering_melon_slice/goburin_horns"}
+	{"predicate": {"custom_model_data": 14}, "model": "custom/glistering_melon_slice/goburin_horns"},
+	{"predicate": {"custom_model_data": 15}, "model": "custom/glistering_melon_slice/earth_clip"}
   ]
 }
