@@ -10,6 +10,17 @@
                 "\u9090\u9091",
                 "\u9093\u9094"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/supporter_icons.png",
+            "height": 8,
+            "ascent": 8,
+            "_comment": "鄀 鄁 鄂",
+            "chars": [
+                "\u9100\u9101",
+                "\u9102\u9103"
+            ]
         }
     ]
 }
