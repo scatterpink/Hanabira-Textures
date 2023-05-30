@@ -6,6 +6,7 @@
   "overrides": [
 	{"predicate": {"custom_model_data": 1}, "model": "custom/iron_axe/naginata"},
 	{"predicate": {"custom_model_data": 2}, "model": "custom/iron_axe/ono"},
-	{"predicate": {"custom_model_data": 3}, "model": "custom/iron_axe/bo_staff"}
+	{"predicate": {"custom_model_data": 3}, "model": "custom/iron_axe/bo_staff"},
+	{"predicate": {"custom_model_data": 4}, "model": "custom/iron_axe/hammer"}
   ]
 }
