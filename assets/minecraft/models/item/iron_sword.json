@@ -9,6 +9,7 @@
 	{"predicate": {"custom_model_data": 3}, "model": "custom/iron_sword/sakuranoken"},
 	{"predicate": {"custom_model_data": 4}, "model": "custom/iron_sword/nunchucks"},
 	{"predicate": {"custom_model_data": 5}, "model": "custom/iron_sword/sai"},
-	{"predicate": {"custom_model_data": 6}, "model": "custom/iron_sword/onikirimaru"}
+	{"predicate": {"custom_model_data": 6}, "model": "custom/iron_sword/onikirimaru"},
+	{"predicate": {"custom_model_data": 7}, "model": "custom/iron_sword/claw"}
   ]
 }
